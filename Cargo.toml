@@ -1,0 +1,11 @@
+[package]
+name = "audio_noise_gen"
+version = "0.1.0"
+authors = ["joao nuno carvalho"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.7.3"
+hound = "3.4.0"
