@@ -8,9 +8,8 @@ See the output example files: <br>
 - white_noise.wav
 - pink_noise.wav
 
-
-
 ## References
+This reference is in Javascript for the Web Audio API, but it as a good description of the algorithms to generate each of the different kind of noise types. I ported them to Rust and developed the rest of my program. <br>
 [How to Generate Noise with the Web Audio API](https://noisehack.com/generate-noise-web-audio-api/)
 
 # How to
