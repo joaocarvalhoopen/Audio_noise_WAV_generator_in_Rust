@@ -4,7 +4,7 @@ This is a fast console program written in Rust.
 ## Description
 `Audio_noise_gen` is a console program to generate a noise WAV file with n seconds. The noise can be white noise, pink noise or brown noise. This program was developed and tested on Linux. <br>
 See the output example files: <br>
-- **brown_noise.wav** - Sound lik a nice low pitch **Waterfall sound**. 
+- **brown_noise.wav** - Sounds like a nice low pitch **Waterfall sound**. 
 - **pink_noise.wav** - Sounds like a **heavy rain day**.
 - **white_noise.wav** - Sounds like **static on an old CRT TV** without the antenna plugged in. 
 
